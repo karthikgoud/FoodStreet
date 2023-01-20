@@ -1,0 +1,36 @@
+{
+  "name": "foodstreet",
+  "version": "1.0.0",
+  "description": "Food app 2nd try version",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikgoud/FoodStreet.git"
+  },
+  "keywords": [
+    "chapter",
+    "01",
+    "chapter",
+    "07",
+    "foodstreet"
+  ],
+  "author": "karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikgoud/FoodStreet/issues"
+  },
+  "homepage": "https://github.com/karthikgoud/FoodStreet#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.7.0"
+  }
+}
